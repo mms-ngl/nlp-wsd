@@ -11,7 +11,7 @@ Word Sense Disambiguation (WSD) project for "Natural Language Processing" course
 ### 🚀 Project setup
 
 #### Project directory
-[[Downloads]](https://drive.google.com/drive/folders/1SEdDLFvQoapy0_jED9_OpE3JJzXPYKB8?usp=sharing) Label vocabulary and trained model: label2id.pth, model_weights.pth.
+[[Downloads]](https://drive.google.com/drive/folders/1f-mckY-Cf0puTUmyFfLx9VoVud1E5kKa?usp=sharing) Label vocabulary and trained model: label2id.pth, model_weights.pth.
 ```
 root
 - data
